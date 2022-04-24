@@ -1,0 +1,52 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"Name": "ALAMEDA COUNTY FIRE DEPARTMENT STATION 21",
+			"zip code": "95304",
+			"address": "15999 WEST CORRAL HOLLOW ROAD",
+			"longitude": "-121.5038261",
+			"latitude": "37.6331827",
+			"facility type": "Emergency Medical Service Station",
+			"avg_monthly_precipitation_past_5_year": "0.053371795",
+			"peak_montly_precipitation_past_5_year": 0.29714477,
+			"peak_montly_precipitation_past_1_year": "0.08540437",
+			"avg_monthly_uwind_past_5_year": "0.15576658",
+			"peak_monthly_uwind_past_5_year": "2.3491936",
+			"peak_monthly_uwind_past_1_year": "1.8596774",
+			"avg_monthly_vwind_past_5_year": "-0.12562329",
+			"peak_monthly_vwind_past_5_year": "1.9455357",
+			"peak_monthly_vwind_past_1_year": "1.132258",
+			"KMean_Clusters": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.503826, 37.633183]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"Name": "SANTA CLARA FIRE DEPARTMENT STATION 3",
+			"zip code": "95051",
+			"address": "2821 HOMESTEAD ROAD",
+			"longitude": "-121.9776389",
+			"latitude": "37.3384158",
+			"facility type": "Emergency Medical Service Station",
+			"avg_monthly_precipitation_past_5_year": "0.060037576",
+			"peak_montly_precipitation_past_5_year": 0.29741937,
+			"peak_montly_precipitation_past_1_year": "0.10083438",
+			"avg_monthly_uwind_past_5_year": "0.7628205",
+			"peak_monthly_uwind_past_5_year": "2.7391667",
+			"peak_monthly_uwind_past_1_year": "2.2024193",
+			"avg_monthly_vwind_past_5_year": "-0.9700297",
+			"peak_monthly_vwind_past_5_year": "1.5839286",
+			"peak_monthly_vwind_past_1_year": "0.683871",
+			"KMean_Clusters": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.977639, 37.338416]
+		}
+	}]
+}
