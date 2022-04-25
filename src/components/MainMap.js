@@ -212,7 +212,7 @@ function MainMap() {
     //Append layer to layerlist
     setLayers("inf-layer");
     })
-  },[inf])
+  },[map,inf])
 
   // Add mouseover effect to the map to show detail information
   useEffect(() => {

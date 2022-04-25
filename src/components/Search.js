@@ -39,7 +39,7 @@ const Search = ({setMapCenter}) => {
         const fetchLinedata = async () => {
             try {
                 //replace the url with your own data source if needed
-                let response = await fetch('../data/Knn_result.json');
+                let response = await fetch('../data/res.json');
                 let responseJson = await response.json();
                 setlines(responseJson);
                 console.log("Reading Line complete");
